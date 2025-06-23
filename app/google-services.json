@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847785942052",
+    "project_id": "karya-fd0c3",
+    "storage_bucket": "karya-fd0c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847785942052:android:859a2b9d147fb9c6240cb1",
+        "android_client_info": {
+          "package_name": "com.example.karya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVsdsdiEplP1hGNgTD4vEyTxM6PVa8U44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
