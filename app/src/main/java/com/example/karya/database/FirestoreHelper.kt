@@ -111,7 +111,7 @@ class FirestoreHelper {
         status: BookingStatus? = null
     ): Result<List<Booking>> {
         return try {
-            var query = bookingsCollection
+            var query: Query = bookingsCollection
             
             if (customerId != null) {
                 query = query.whereEqualTo("customerId", customerId)
